@@ -14,4 +14,4 @@ Here we use a Jekyll [plugin](https://github.com/dommmel/jekyll-youtube) to rend
 You cannot use that plugin in GitHub pages since it's not [white listed](https://pages.github.com/versions/).
 But you can use inside Now thanks to Now's static build support which is based on docker.
 
-You can find this sample app on GitHub.
+You can find [this sample app](https://github.com/now-examples/now-jekyll-example) on GitHub.
