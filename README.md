@@ -1,4 +1,4 @@
-# now-jekyll-example
+# jekyll-static
 
 This is a simple Jekyll app deploy on Now using the static build support.<br/>
 Here we use a Jekyll [plugin](https://github.com/dommmel/jekyll-youtube) to render youtube videos.
